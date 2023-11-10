@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lee-16
 - 👀 I’m interested in AR/VR Projects
-- 🌱 I’m currently learning Game Development
-- 💞️ I’m looking to collaborate with Companies that do their projects on Games 
+- 🌱 I’m currently learning Game Development and VR development
+- 💞️ I’m looking to collaborate with Companies that do their projects on Games and on VR
 
 <!---
 Lee-16/Lee-16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
